@@ -1,4 +1,6 @@
 
+machine_name: "Jiu jutsu state machine";
+
 // Starting
 PASSING <=> GUARD;
 
